@@ -1,14 +1,17 @@
 {
   "Chainsaw Man: The Movie - Reze Arc": {
     "rating": 10,
+    "state": "completed", 
     "recommends": ["Chainsaw Man The Compilation", "Chainsaw Man PV", "Peach Boy Riverside", "Akame ga Kill!", "Ga-Rei-Zero", "Spirit Warrior 2", "Spirit Warrior", "Dorohedoro", "Attack on Titan 3rd Season: Part II", "Bio Hunter"]
   },
   "Chainsaw Man": {
     "rating": 9,
+    "state": "completed",
     "recommends": ["Jujutsu Kaisen", "Dorohedoro", "Tokyo Ghoul", "Kaiju No. 8", "Peach Boy Riverside", "Akame ga Kill!", "Parasyte -the maxim-", "My Life as Inukai-san's Dog", "Beyond the Boundary", "Seraph of the End", "One Piece", "Claymore", "Ninja Kamui", "Blue Exorcist", "Dandadan", "Devil's Line"]
-},
+  },
   "Delicious in Dungeon": {
-    
+    "state": "watching",
+    "recommends": ["Campfire Cooking in Another World with My Absurd Skill", "Frieren: Beyond Journey's End", "Fullmetal Alchemist: Brotherhood", "Made in Abyss", "Little Witch Academia TV", "Restaurant to Another World", "Drifting Dragons", "Golden Kamuy", "The Idaten Deities Know Only Peace", "Goblin Slayer", "Astra List in Space"]
   },
   "Blue Lock": {
     
@@ -37,7 +40,7 @@
   "Shokugeki no Souma": {
     
   },
-  "Frieren": {
+  "Frieren: Beyond Journey's End": {
     
   }
 
