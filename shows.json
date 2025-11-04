@@ -1,22 +1,11 @@
 {
-  "Breaking Bad": {
-    "rating": 9.5,
-    "recommends": ["Better Call Saul", "Ozark"]
+  "Chainsaw Man: The Movie - Reze Arc": {
+    "rating": 10,
+    "recommends": ["Chainsaw Man The Compilation", "Chainsaw Man PV", "Peach Boy Riverside", "Akame ga Kill!", "Ga-Rei-Zero", "Spirit Warrior 2", "Spirit Warrior", "Dorohedoro", "Attack on Titan 3rd Season: Part II", "Bio Hunter"]
   },
-  "Better Call Saul": {
-    "rating": 8.8,
-    "recommends": ["Breaking Bad"]
-  },
-  "Ozark": {
-    "rating": 8.2,
-    "recommends": ["Breaking Bad"]
-  },
-  "Stranger Things": {
-    "rating": 8.0,
-    "recommends": ["Dark"]
-  },
-  "Dark": {
-    "rating": 9.0,
-    "recommends": ["Stranger Things"]
-  }
+  "Chainsaw Man": {
+    "rating": 9,
+    "recommends": ["Jujutsu Kaisen", "Dorohedoro", "Tokyo Ghoul", "Kaiju No. 8", "Peach Boy Riverside", "Akame ga Kill!", "Parasyte -the maxim-", "My Life as Inukai-san's Dog", "Beyond the Boundary", "Seraph of the End", "One Piece", "Claymore", "Ninja Kamui", "Blue Exorcist", "Dandadan", "Devil's Line"]
+}
+
 }
