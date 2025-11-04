@@ -9,6 +9,11 @@
     "state": "completed",
     "recommends": ["Jujutsu Kaisen", "Dorohedoro", "Tokyo Ghoul", "Kaiju No. 8", "Peach Boy Riverside", "Akame ga Kill!", "Parasyte -the maxim-", "My Life as Inukai-san's Dog", "Beyond the Boundary", "Seraph of the End", "One Piece", "Claymore", "Ninja Kamui", "Blue Exorcist", "Dandadan", "Devil's Line"]
   },
+  "Kakegurui": {
+    "rating": 8,
+    "state": "completed",
+    "recommends": ["No Game No Life", "Classroom of the Elite", "Akagi", "Kaiji - Ultimate Survivor", "Danganronpa: The Animation", "Food Wars! Shokugeki no Souma", "Death Parade", "Death Note", "Death Billiards", "Shoubushi Densetsu Tetsuya", "C: The Money of Soul and Possibility Control", "Angels of Death", "Future Diary", "Beastars", "Yu-Gi-Oh! GX", "Riddle Story of Devil", "Tokyo Revengers", "Liar Liar", "Rock is a Lady's Modesty"]
+  },
   "Delicious in Dungeon": {
     "state": "watching",
     "recommends": ["Campfire Cooking in Another World with My Absurd Skill", "Frieren: Beyond Journey's End", "Fullmetal Alchemist: Brotherhood", "Made in Abyss", "Little Witch Academia TV", "Restaurant to Another World", "Drifting Dragons", "Golden Kamuy", "The Idaten Deities Know Only Peace", "Goblin Slayer", "Astra List in Space"]
@@ -34,10 +39,10 @@
   "Death Note": {
     
   },
-  "Madocka Magica": {
+  "Puella Magi Madoka Magica": {
     
   },
-  "Shokugeki no Souma": {
+  "Food Wars! Shokugeki no Souma": {
     
   },
   "Frieren: Beyond Journey's End": {
