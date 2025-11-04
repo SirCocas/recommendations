@@ -1,0 +1,22 @@
+{
+  "Breaking Bad": {
+    "rating": 9.5,
+    "recommends": ["Better Call Saul", "Ozark"]
+  },
+  "Better Call Saul": {
+    "rating": 8.8,
+    "recommends": ["Breaking Bad"]
+  },
+  "Ozark": {
+    "rating": 8.2,
+    "recommends": ["Breaking Bad"]
+  },
+  "Stranger Things": {
+    "rating": 8.0,
+    "recommends": ["Dark"]
+  },
+  "Dark": {
+    "rating": 9.0,
+    "recommends": ["Stranger Things"]
+  }
+}
