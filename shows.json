@@ -17,6 +17,10 @@
     "state": "completed",
     "recommends": ["Kaiji - Ultimate Survivor", "Kakegurui Twin", "Usogui", "Akagi", "Classroom of the Elite", "Tomodachi Game", "Kaiji - Against All Rules", "Liar Game", "Shoubushi Densetsu Tetsuya", "Tasuu Ketsu: Judgement Assizes"]
   },
+  "Naruto": {
+    "state": "watching",
+    "recommends": ["Bleach", "One Piece", "Dragon Ball Z", "Hunter x Hunter", "My Hero Academia", "Fairy Tail", "Hunter x Hunter (2011)", "Dragon Ball", "Black Clover", "Flame of Recca", "InuYasha", "Fullmetal Alchemist", "Jujutsu Kaisen", "Soul Eater", "Nabari no Ou", "Yu Yu Hakusho", "Basilisk", "Rurouni Kenshin", "Shaman King", "Fullmetal Alchemist: Brotherhood", "The Prince of Tennis", "Rave Master", "Samurai Deeper Kyo", "Tenjo Tenge", "The Law of Ueki", "Peace Maker Kurogane","REBORN!", "Blue Exorcist", "Sword Art Online", "Haikyuu!!"]
+  },
   "Delicious in Dungeon": {
     "state": "watching",
     "recommends": ["Campfire Cooking in Another World with My Absurd Skill", "Frieren: Beyond Journey's End", "Fullmetal Alchemist: Brotherhood", "Made in Abyss", "Little Witch Academia TV", "Restaurant to Another World", "Drifting Dragons", "Golden Kamuy", "The Idaten Deities Know Only Peace", "Goblin Slayer", "Astra List in Space"]
