@@ -1,0 +1,64 @@
+{
+  "Chainsaw Man: The Movie - Reze Arc": {
+    "url": "https://www.anime-planet.com/anime/chainsaw-man-the-movie-reze-arc",
+    "rating": 8.5,
+    "state": "completed", 
+    "recommends": ["Chainsaw Man The Compilation", "Chainsaw Man PV", "Peach Boy Riverside", "Akame ga Kill!", "Ga-Rei-Zero", "Spirit Warrior 2", "Spirit Warrior", "Dorohedoro", "Attack on Titan 3rd Season: Part II", "Bio Hunter"]
+  },
+  "Chainsaw Man": {
+    "url": "https://www.anime-planet.com/anime/chainsaw-man",
+    "rating": 8.5,
+    "state": "completed",
+    "recommends": ["Jujutsu Kaisen", "Dorohedoro", "Tokyo Ghoul", "Kaiju No. 8", "Peach Boy Riverside", "Akame ga Kill!", "Parasyte -the maxim-", "My Life as Inukai-san's Dog", "Beyond the Boundary", "Seraph of the End", "One Piece", "Claymore", "Ninja Kamui", "Blue Exorcist", "Dandadan", "Devil's Line"]
+  },
+  "Kakegurui": {
+    "url": "https://www.anime-planet.com/anime/kakegurui",
+    "state": "completed",
+    "recommends": ["No Game No Life", "Classroom of the Elite", "Akagi", "Kaiji - Ultimate Survivor", "Danganronpa: The Animation", "Food Wars! Shokugeki no Souma", "Death Parade", "Death Note", "Death Billiards", "Shoubushi Densetsu Tetsuya", "C: The Money of Soul and Possibility Control", "Angels of Death", "Future Diary", "Beastars", "Yu-Gi-Oh! GX", "Riddle Story of Devil", "Tokyo Revengers", "Liar Liar", "Rock is a Lady's Modesty"]
+  },
+  "Kakegurui XX": {
+    "url": "https://www.anime-planet.com/anime/kakegurui-xx",
+    "recommends": ["Kaiji - Ultimate Survivor", "Kakegurui Twin", "Usogui", "Akagi", "Classroom of the Elite", "Tomodachi Game", "Kaiji - Against All Rules", "Liar Game", "Shoubushi Densetsu Tetsuya", "Tasuu Ketsu: Judgement Assizes"]
+  },
+  "Naruto": {
+    "url": "https://www.anime-planet.com/anime/naruto",
+    "state": "watching",
+    "recommends": ["Bleach", "One Piece", "Dragon Ball Z", "Hunter x Hunter", "My Hero Academia", "Fairy Tail", "Hunter x Hunter (2011)", "Dragon Ball", "Black Clover", "Flame of Recca", "InuYasha", "Fullmetal Alchemist", "Jujutsu Kaisen", "Soul Eater", "Nabari no Ou", "Yu Yu Hakusho", "Basilisk", "Rurouni Kenshin", "Shaman King", "Fullmetal Alchemist: Brotherhood", "The Prince of Tennis", "Rave Master", "Samurai Deeper Kyo", "Tenjo Tenge", "The Law of Ueki", "Peace Maker Kurogane","REBORN!", "Blue Exorcist", "Sword Art Online", "Haikyuu!!", "Jing: King of Bandits", "Scryed", "Ranma 1/2", "Hikaru no Go", "Ninja Scroll", "Samurai Champloo", "Kekkaishi", "Ikkitousen", "D.Gray-man", "Noragami", "Demon Slayer: Kimetsu no Yaiba", "Rascal Does Not Dream of Bunny Girl Senpai", "Bungo Stray Dogs", "Now and Then, Here and There", "Samurai Girl: Real Bout High School", "Jubei-chan: The Ninja Girl", "Shadow Skill TV", "Puppet Princess", "Get Backers", "Kiba", "Gakuen Alice", "Buzzer Beater 2nd Season", "Hunter x Hunter OVA: Greed Island", "When They Cry: Higurashi", "Buso Renkin", "History's Strongest Disciple Kenichi", "Kaleido Star", "Loveless", "Zatch Bell!", "B't X", "Dragon Ball GT", "Blue Dragon", "Air Gear", "Hajime no Ippo: The Fighting!", "Photon: The Idiot Adventures", "Gintama", "Dragon Ball Z Movie 10: Broly - Second Coming", "Wolf's Rain", "Ninja Cadets", "Digimon Adventure", "Pokemon", "Amatsuki", "X-Men", "Yakitate!! Japan", "Claymore", "Battle Athletes Victory", "Kyo hara Maoh!", "Soul Eater Not!", "Pandora Hearts", "Blast of Tempest", "Penguindrum", "Mar", "Ushio and Tora TV (2016)", "One-Punch Man: Road to Hero", "Welcome to the Ballroom", "The Last: Naruto the Movie", "The Seven Deadly Sins", "My Hero Academia 6"]
+  },
+  "Delicious in Dungeon": {
+    "url": "https://www.anime-planet.com/anime/delicious-in-dungeon",
+    "state": "watching",
+    "recommends": ["Campfire Cooking in Another World with My Absurd Skill", "Frieren: Beyond Journey's End", "Fullmetal Alchemist: Brotherhood", "Made in Abyss", "Little Witch Academia TV", "Restaurant to Another World", "Drifting Dragons", "Golden Kamuy", "The Idaten Deities Know Only Peace", "Goblin Slayer", "Astra List in Space"]
+  },
+  "Blue Lock": {
+    "url": "https://www.anime-planet.com/anime/blue-lock"
+  },
+  "Attack on Titan": {
+    "url": "https://www.anime-planet.com/anime/attack-on-titan"
+  },
+  "Dorohedoro": {
+    "url": "https://www.anime-planet.com/anime/dorohedoro"
+  },
+  "Keijo!!!!!!!!": {
+    "url": "https://www.anime-planet.com/anime/keijo"
+  },
+  "Neon Genesis Evangelion": {
+    "url": "https://www.anime-planet.com/anime/neon-genesis-evangelion"
+  },
+  "The Wind Rises": {
+    "url": "https://www.anime-planet.com/anime/the-wind-rises"
+  },
+  "Death Note": {
+    "url": "https://www.anime-planet.com/anime/death-note"
+  },
+  "Puella Magi Madoka Magica": {
+    "url": "https://www.anime-planet.com/anime/puella-magi-madoka-magica"
+  },
+  "Food Wars! Shokugeki no Souma": {
+    "url": "https://www.anime-planet.com/anime/food-wars-shokugeki-no-souma"
+  },
+  "Frieren: Beyond Journey's End": {
+    "url": "https://www.anime-planet.com/anime/frieren-beyond-journeys-end"
+  }
+
+}

@@ -1,0 +1,19 @@
+{
+  "Chainsaw Man: The Movie - Reze Arc": {
+    "url": "https://www.anime-planet.com/anime/chainsaw-man-the-movie-reze-arc",
+    "rating": 8.5,
+    "state": "completed", 
+    "recommends": ["Chainsaw Man The Compilation", "Chainsaw Man PV", "Peach Boy Riverside", "Akame ga Kill!", "Ga-Rei-Zero", "Spirit Warrior 2", "Spirit Warrior", "Dorohedoro", "Attack on Titan 3rd Season: Part II", "Bio Hunter"]
+  },
+  "Chainsaw Man": {
+    "url": "https://www.anime-planet.com/anime/chainsaw-man",
+    "rating": 8.5,
+    "state": "completed",
+    "recommends": ["Jujutsu Kaisen", "Dorohedoro", "Tokyo Ghoul", "Kaiju No. 8", "Peach Boy Riverside", "Akame ga Kill!", "Parasyte -the maxim-", "My Life as Inukai-san's Dog", "Beyond the Boundary", "Seraph of the End", "One Piece", "Claymore", "Ninja Kamui", "Blue Exorcist", "Dandadan", "Devil's Line"]
+  },
+  
+  "Frieren: Beyond Journey's End": {
+    "url": "https://www.anime-planet.com/anime/frieren-beyond-journeys-end"
+  }
+
+}
