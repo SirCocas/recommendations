@@ -17,7 +17,8 @@ def get_recs_from_url(rec_page_url):
         ),
         "Accept-Language": "en-US,en;q=0.9",
     }
-    time.sleep(1)  # Be polite and avoid overwhelming the server
+    time.sleep(2)  # Be polite and avoid overwhelming the server
+    print('Fetching recommendations from:', rec_page_url)
     rec_page = requests.get(rec_page_url, headers=headers)
     rec_page.raise_for_status()
     rec_soup = BeautifulSoup(rec_page.text, "html.parser")
