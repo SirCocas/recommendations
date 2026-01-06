@@ -2,6 +2,8 @@ import json
 import requests
 import html
 import time
+from requests.exceptions import HTTPError
+
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.anime-planet.com"
