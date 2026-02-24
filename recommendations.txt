@@ -10,6 +10,7 @@ Chainsaw Man PV: 21.0
 Ga-Rei-Zero: 21.0
 Spirit Warrior 2: 21.0
 Spirit Warrior: 21.0
+Attack on Titan 3rd Season: Part II: 21.0
 Tokyo Ghoul: 21.0
 Kaiju No. 8: 21.0
 Parasyte -the maxim-: 21.0
@@ -18,10 +19,8 @@ Beyond the Boundary: 21.0
 Seraph of the End: 21.0
 Ninja Kamui: 21.0
 Dandadan: 21.0
-Attack on Titan 3rd Season: Part II: 10.5
 Bio Hunter: 10.5
 Neon Genesis Evangelion: The End of Evangelion: 10.5
-Sentenced to Be a Hero: 10.5
 Devil's Line: 10.5
 Devils' Line: 10.5
 No Game No Life: 4
@@ -140,8 +139,8 @@ Tenjho Tenge: 1
 Hunter x Hunter OVA 2: Greed Island: 1
 Kyo kara Maoh!: 1
 Astra List in Space: 1
-Astra Lost in Space: 1
 Pass the Monster Meat, Milady!: 1
+Astra Lost in Space: 1
 Kakegurui XX: 0
 Kakegurui Twin: 0
 Usogui: 0
@@ -507,8 +506,8 @@ Interspecies Reviewers: 0
 Isekai Izakaya: Japanese Food From Another World: 0
 2.5 Dimensional Seduction: 0
 Violet Evergarden: 0
-To Your Eternity: 0
 The Apothecary Diaries: 0
+To Your Eternity: 0
 Mushoku Tensei: Jobless Reincarnation: 0
 Kino's Journey -the Beautiful World- the Animated Series: 0
 Secrets of the Silent Witch: 0
@@ -519,3 +518,4 @@ Fairies Albums: 0
 Natsume's Book of Friends: 0
 Mushoku Tensei: Jobless Reincarnation 2nd Season - Part II: 0
 Girls' Last Tour: 0
+March Comes in like a Lion: 0
