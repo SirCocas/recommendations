@@ -1,1 +1,1 @@
-sleep 10
+python3 imdb.py
