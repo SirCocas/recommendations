@@ -1,6 +1,6 @@
-cd /mnt/host
-
-touch imdb_recommendations.txt
 #cd /mnt/host
 
-#python3 imdb.py
+#touch imdb_recommendations.txt
+cd /mnt/host
+
+python3 imdb.py
