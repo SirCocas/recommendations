@@ -1,82 +1,914 @@
 {
+  "tt36454323": {
+    "rating": 8,
+    "title": "Forevergreen"
+  },
+  "tt31036941": {
+    "rating": 6,
+    "title": "Jurassic World: Rebirth"
+  },
+  "tt33019507": {
+    "rating": 9,
+    "title": "Retirement Plan"
+  },
+  "tt21103218": {
+    "rating": 5,
+    "title": "The Lost Bus"
+  },
+  "tt32536315": {
+    "rating": 6,
+    "title": "Blue Moon"
+  },
+  "tt36491653": {
+    "rating": 8,
+    "title": "It Was Just an Accident"
+  },
+  "tt33508491": {
+    "rating": 7,
+    "title": "The Singers"
+  },
+  "tt32298285": {
+    "rating": 6,
+    "title": "Sirat"
+  },
+  "tt1757678": {
+    "rating": 6,
+    "title": "Avatar: Fire and Ash"
+  },
+  "tt27847051": {
+    "rating": 7,
+    "title": "The Secret Agent"
+  },
+  "tt31171760": {
+    "rating": 8,
+    "title": "Jane Austen's Period Drama"
+  },
+  "tt16311594": {
+    "rating": 4,
+    "title": "F1: The Movie"
+  },
+  "tt29768334": {
+    "rating": 6,
+    "title": "Train Dreams"
+  },
+  "tt33365259": {
+    "rating": 10,
+    "title": "Two People Exchanging Saliva"
+  },
+  "tt14905854": {
+    "rating": 9,
+    "title": "Hamnet"
+  },
+  "tt27714581": {
+    "rating": 9,
+    "title": "Sentimental Value"
+  },
+  "tt37660887": {
+    "rating": 8,
+    "title": "Cover-Up"
+  },
+  "tt34962891": {
+    "rating": 6,
+    "title": "The Perfect Neighbor"
+  },
+  "tt32916440": {
+    "rating": 8,
+    "title": "Marty Supreme"
+  },
+  "tt30144839": {
+    "rating": 8,
+    "title": "One Battle After Another"
+  },
+  "tt21621494": {
+    "rating": 9,
+    "title": "Delicious in Dungeon"
+  },
+  "tt8503618": {
+    "rating": 10,
+    "title": "Hamilton"
+  },
+  "tt38984577": {
+    "rating": 8,
+    "title": "Murder in Monaco"
+  },
+  "tt33305620": {
+    "rating": 10,
+    "title": "Game of Wool: Britain's Best Knitter"
+  },
+  "tt11564570": {
+    "rating": 7,
+    "title": "Glass Onion"
+  },
+  "tt14364480": {
+    "rating": 8,
+    "title": "Wake Up Dead Man"
+  },
+  "tt37674426": {
+    "rating": 7,
+    "title": "Unknown Number: The High School Catfish"
+  },
+  "tt5580390": {
+    "rating": 10,
+    "title": "The Shape of Water"
+  },
+  "tt1312221": {
+    "rating": 9,
+    "title": "Frankenstein"
+  },
+  "tt12300742": {
+    "rating": 7,
+    "title": "Bugonia"
+  },
+  "tt1361835": {
+    "rating": 7,
+    "title": "The Silence"
+  },
+  "tt10160976": {
+    "rating": 5,
+    "title": "The Nun II"
+  },
+  "tt8350360": {
+    "rating": 5,
+    "title": "Annabelle Comes Home"
+  },
+  "tt5140878": {
+    "rating": 8,
+    "title": "Annabelle: Creation"
+  },
+  "tt5814060": {
+    "rating": 6,
+    "title": "The Nun"
+  },
+  "tt3322940": {
+    "rating": 7,
+    "title": "Annabelle"
+  },
+  "tt7069210": {
+    "rating": 6,
+    "title": "The Conjuring: The Devil Made Me Do It"
+  },
+  "tt3065204": {
+    "rating": 8,
+    "title": "The Conjuring 2"
+  },
+  "tt31973693": {
+    "rating": 9,
+    "title": "The Roses"
+  },
+  "tt31184028": {
+    "rating": 3,
+    "title": "Together"
+  },
+  "tt0156887": {
+    "rating": 10,
+    "title": "Perfect Blue"
+  },
+  "tt14205554": {
+    "rating": 7,
+    "title": "KPop Demon Hunters"
+  },
+  "tt13406094": {
+    "rating": 8,
+    "title": "The White Lotus"
+  },
   "tt0353969": {
     "rating": 10,
     "title": "Memories of Murder"
   },
-  "tt6751668": {
-    "rating": 10,
-    "title": "Parasite"
-  },
-  "tt0091251": {
-    "rating": 10,
-    "title": "Come and See"
+  "tt0829482": {
+    "rating": 2,
+    "title": "Superbad"
   },
   "tt0118799": {
     "rating": 10,
-    "title": "Life is Beautiful"
+    "title": "Life Is Beautiful"
   },
-  "tt8772262":{
-    "rating": 10,
-    "title": "Midsommar"
+  "tt0053779": {
+    "rating": 7,
+    "title": "La Dolce Vita"
   },
-  "tt14230388": {
-    "rating": 10,
-    "title": "Asteroid City"
+  "tt5109784": {
+    "rating": 5,
+    "title": "Mother!"
   },
-  "tt3783958": {
-    "rating": 10,
-    "title": "La La Land"
-  },
-  "tt8613070": {
-    "rating": 10,
-    "title": "Porttrait of a Lady on Fire"
-  },
-  "tt4925292": {
-    "rating": 10,
-    "title": "Lady Bird"
-  },
-  "tt2582802": {
-    "rating": 8,
-    "title": "Whiplash"
-  },
-  "tt0109830": {
+  "tt0457430": {
     "rating": 9,
-    "title": "Forrest Gump"
+    "title": "Pan's Labyrinth"
   },
-  "tt1517268": {
-    "rating": 7,
-    "title": "Barbie"
-  },
-  "tt0137523": {
+  "tt0434409": {
     "rating": 8,
-    "title": "Fight Club"
+    "title": "V for Vendetta"
   },
-  "tt0114369": {
-    "rating": 7,
-    "title": "Se7en"
+  "tt0083972": {
+    "rating": 5,
+    "title": "Friday the 13th: Part 3"
+  },
+  "tt0367279": {
+    "rating": 10,
+    "title": "Arrested Development"
   },
   "tt0110912": {
     "rating": 7,
     "title": "Pulp Fiction"
   },
+  "tt14230388": {
+    "rating": 10,
+    "title": "Asteroid City"
+  },
+  "tt31800329": {
+    "rating": 7,
+    "title": "The Wonderful Story of Henry Sugar and Three More"
+  },
+  "tt30840798": {
+    "rating": 9,
+    "title": "The Phoenician Scheme"
+  },
+  "tt1895587": {
+    "rating": 9,
+    "title": "Spotlight"
+  },
+  "tt33058713": {
+    "rating": 6,
+    "title": "Jailbreak: Love on the Run"
+  },
+  "tt34682275": {
+    "rating": 10,
+    "title": "The Kings of Tupelo: A Southern Crime Saga"
+  },
+  "tt29314050": {
+    "rating": 10,
+    "title": "A Bit Fruity with Matt Bernstein"
+  },
+  "tt16867040": {
+    "rating": 10,
+    "title": "Cunk on Earth"
+  },
+  "tt34874258": {
+    "rating": 8,
+    "title": "Cunk on Life"
+  },
+  "tt34977130": {
+    "rating": 4,
+    "title": "Don't Die: The Man Who Wants to Live Forever"
+  },
+  "tt34350086": {
+    "rating": 3,
+    "title": "Buy Now! The Shopping Conspiracy"
+  },
+  "tt18224682": {
+    "rating": 7,
+    "title": "Biggest Heist Ever"
+  },
+  "tt34269065": {
+    "rating": 7,
+    "title": "Jerry Springer: Fights, Camera, Action"
+  },
+  "tt35456246": {
+    "rating": 8,
+    "title": "American Manhunt: O.J. Simpson"
+  },
+  "tt34169767": {
+    "rating": 7,
+    "title": "Cold Case: Who Killed JonBenét Ramsey"
+  },
+  "tt33481094": {
+    "rating": 7,
+    "title": "The Menendez Brothers"
+  },
+  "tt33484071": {
+    "rating": 8,
+    "title": "Sweet Bobby: My Catfish Nightmare"
+  },
+  "tt35955855": {
+    "rating": 7,
+    "title": "Con Mum"
+  },
+  "tt36151929": {
+    "rating": 6,
+    "title": "Bad Influence: The Dark Side of Kidfluencing"
+  },
+  "tt35309276": {
+    "rating": 7,
+    "title": "Devil in the Family: The Fall of Ruby Franke"
+  },
+  "tt35629774": {
+    "rating": 7,
+    "title": "Gone Girls: The Long Island Serial Killer"
+  },
+  "tt35590630": {
+    "rating": 7,
+    "title": "American Murder: Gabby Petito"
+  },
+  "tt33480540": {
+    "rating": 7,
+    "title": "This Is the Zodiac Speaking"
+  },
+  "tt0443706": {
+    "rating": 7,
+    "title": "Zodiac"
+  },
+  "tt15567174": {
+    "rating": 7,
+    "title": "The Fall of the House of Usher"
+  },
+  "tt8228288": {
+    "rating": 6,
+    "title": "The Platform"
+  },
+  "tt15474916": {
+    "rating": 7,
+    "title": "Smile"
+  },
+  "tt1259521": {
+    "rating": 6,
+    "title": "The Cabin in the Woods"
+  },
+  "tt10574558": {
+    "rating": 9,
+    "title": "Midnight Mass"
+  },
+  "tt6763664": {
+    "rating": 10,
+    "title": "The Haunting of Hill House"
+  },
+  "tt10970552": {
+    "rating": 8,
+    "title": "The Haunting of Bly Manor"
+  },
+  "tt5022702": {
+    "rating": 7,
+    "title": "Hush"
+  },
+  "tt9701942": {
+    "rating": 8,
+    "title": "Fear Street: Part Three - 1666"
+  },
+  "tt1131734": {
+    "rating": 7,
+    "title": "Jennifer's Body"
+  },
+  "tt13287846": {
+    "rating": 6,
+    "title": "Napoleon"
+  },
+  "tt0120915": {
+    "rating": 8,
+    "title": "Star Wars: Episode I - The Phantom Menace"
+  },
+  "tt0110357": {
+    "rating": 8,
+    "title": "The Lion King"
+  },
+  "tt0133093": {
+    "rating": 9,
+    "title": "The Matrix"
+  },
+  "tt0109830": {
+    "rating": 9,
+    "title": "Forrest Gump"
+  },
   "tt0111161": {
     "rating": 9,
     "title": "The Shawshank Redemption"
   },
-  "tt7784604": {
-    "rating": 9,
-    "title": "Hereditary"
+  "tt0816711": {
+    "rating": 5,
+    "title": "World War Z"
   },
-  "tt5052448": {
+  "tt0499549": {
+    "rating": 7,
+    "title": "Avatar"
+  },
+  "tt8946378": {
     "rating": 8,
-    "title": "Get Out"
+    "title": "Knives Out"
+  },
+  "tt3783958": {
+    "rating": 10,
+    "title": "La La Land"
+  },
+  "tt7653254": {
+    "rating": 8,
+    "title": "Marriage Story"
+  },
+  "tt1457767": {
+    "rating": 7,
+    "title": "The Conjuring"
+  },
+  "tt6644200": {
+    "rating": 7,
+    "title": "A Quiet Place"
+  },
+  "tt18925334": {
+    "rating": 7,
+    "title": "Pearl"
+  },
+  "tt1630029": {
+    "rating": 7,
+    "title": "Avatar: The Way of Water"
+  },
+  "tt0903624": {
+    "rating": 8,
+    "title": "The Hobbit: An Unexpected Journey"
+  },
+  "tt3778644": {
+    "rating": 7,
+    "title": "Solo: A Star Wars Story"
+  },
+  "tt0086190": {
+    "rating": 8,
+    "title": "Star Wars: Episode VI - Return of the Jedi"
+  },
+  "tt3748528": {
+    "rating": 7,
+    "title": "Rogue One: A Star Wars Story"
+  },
+  "tt30955489": {
+    "rating": 6,
+    "title": "Until Dawn"
+  },
+  "tt8579674": {
+    "rating": 9,
+    "title": "1917"
+  },
+  "tt0361748": {
+    "rating": 7,
+    "title": "Inglourious Basterds"
+  },
+  "tt0114369": {
+    "rating": 7,
+    "title": "Se7en"
+  },
+  "tt0120382": {
+    "rating": 8,
+    "title": "The Truman Show"
+  },
+  "tt0081505": {
+    "rating": 8,
+    "title": "The Shining"
+  },
+  "tt0144084": {
+    "rating": 9,
+    "title": "American Psycho"
+  },
+  "tt7131622": {
+    "rating": 7,
+    "title": "Once Upon a Time... in Hollywood"
+  },
+  "tt1302006": {
+    "rating": 9,
+    "title": "The Irishman"
+  },
+  "tt8404614": {
+    "rating": 8,
+    "title": "The Two Popes"
+  },
+  "tt31193180": {
+    "rating": 10,
+    "title": "Sinners"
+  },
+  "tt0096283": {
+    "rating": 9,
+    "title": "My Neighbor Totoro"
+  },
+  "tt0071853": {
+    "rating": 9,
+    "title": "Monty Python and the Holy Grail"
+  },
+  "tt0347149": {
+    "rating": 9,
+    "title": "Howl's Moving Castle"
+  },
+  "tt0876563": {
+    "rating": 8,
+    "title": "Ponyo"
+  },
+  "tt0121766": {
+    "rating": 8,
+    "title": "Star Wars: Episode III - Revenge of the Sith"
+  },
+  "tt3566834": {
+    "rating": 3,
+    "title": "A Minecraft Movie"
+  },
+  "tt7984734": {
+    "rating": 9,
+    "title": "The Lighthouse"
+  },
+  "tt0088847": {
+    "rating": 8,
+    "title": "The Breakfast Club"
+  },
+  "tt11280740": {
+    "rating": 10,
+    "title": "Severance"
+  },
+  "tt0097165": {
+    "rating": 8,
+    "title": "Dead Poets Society"
+  },
+  "tt0414387": {
+    "rating": 8,
+    "title": "Pride & Prejudice"
+  },
+  "tt0147800": {
+    "rating": 7,
+    "title": "10 Things I Hate About You"
+  },
+  "tt4925292": {
+    "rating": 10,
+    "title": "Lady Bird"
+  },
+  "tt8613070": {
+    "rating": 10,
+    "title": "Portrait of a Lady on Fire"
+  },
+  "tt2402927": {
+    "rating": 9,
+    "title": "Carol"
+  },
+  "tt8522006": {
+    "rating": 7,
+    "title": "Happiest Season"
+  },
+  "tt18559464": {
+    "rating": 6,
+    "title": "My Old Ass"
+  },
+  "tt30428143": {
+    "rating": 7,
+    "title": "Apple Cider Vinegar"
+  },
+  "tt20215234": {
+    "rating": 8,
+    "title": "Conclave"
+  },
+  "tt8999762": {
+    "rating": 9,
+    "title": "The Brutalist"
+  },
+  "tt26584495": {
+    "rating": 7,
+    "title": "Companion"
+  },
+  "tt5040012": {
+    "rating": 8,
+    "title": "Nosferatu"
+  },
+  "tt9764362": {
+    "rating": 7,
+    "title": "The Menu"
+  },
+  "tt6587046": {
+    "rating": 9,
+    "title": "The Boy and the Heron"
+  },
+  "tt29623480": {
+    "rating": 8,
+    "title": "The Wild Robot"
+  },
+  "tt1262426": {
+    "rating": 7,
+    "title": "Wicked"
+  },
+  "tt28015403": {
+    "rating": 8,
+    "title": "Heretic"
+  },
+  "tt17526714": {
+    "rating": 7,
+    "title": "The Substance"
+  },
+  "tt0082418": {
+    "rating": 6,
+    "title": "Friday the 13th Part 2"
+  },
+  "tt0080761": {
+    "rating": 6,
+    "title": "Friday the 13th"
+  },
+  "tt4477976": {
+    "rating": 7,
+    "title": "Superstore"
+  },
+  "tt4955642": {
+    "rating": 8,
+    "title": "The Good Place"
+  },
+  "tt1486217": {
+    "rating": 9,
+    "title": "Archer"
+  },
+  "tt33301469": {
+    "rating": 7,
+    "title": "Mr. McMahon"
+  },
+  "tt13207736": {
+    "rating": 8,
+    "title": "Monster"
+  },
+  "tt1439629": {
+    "rating": 9,
+    "title": "Community"
+  },
+  "tt32937646": {
+    "rating": 7,
+    "title": "Chimp Crazy"
+  },
+  "tt33079160": {
+    "rating": 7,
+    "title": "American Murder: Laci Peterson"
+  },
+  "tt0078748": {
+    "rating": 8,
+    "title": "Alien"
+  },
+  "tt17677860": {
+    "rating": 9,
+    "title": "Presumed Innocent"
+  },
+  "tt0327597": {
+    "rating": 9,
+    "title": "Coraline"
+  },
+  "tt32123951": {
+    "rating": 6,
+    "title": "Hollywood Con Queen"
+  },
+  "tt21217912": {
+    "rating": 8,
+    "title": "Trainwreck: Woodstock '99"
+  },
+  "tt11823076": {
+    "rating": 7,
+    "title": "Tiger King"
+  },
+  "tt7768848": {
+    "rating": 10,
+    "title": "Wild Wild Country"
+  },
+  "tt5189670": {
+    "rating": 9,
+    "title": "Making a Murderer"
+  },
+  "tt27715627": {
+    "rating": 8,
+    "title": "Shiny Happy People"
+  },
+  "tt32307741": {
+    "rating": 7,
+    "title": "Ashley Madison: Sex, Lies & Scandal"
+  },
+  "tt32307218": {
+    "rating": 6,
+    "title": "Dancing for the Devil: The 7M TikTok Cult"
+  },
+  "tt29388212": {
+    "rating": 7,
+    "title": "Escaping Twin Flames"
+  },
+  "tt20560404": {
+    "rating": 10,
+    "title": "Keep Sweet: Pray and Obey"
+  },
+  "tt32146518": {
+    "rating": 6,
+    "title": "America's Sweethearts: Dallas Cowboys Cheerleaders"
+  },
+  "tt13560574": {
+    "rating": 8,
+    "title": "X"
+  },
+  "tt11304740": {
+    "rating": 3,
+    "title": "Wish"
+  },
+  "tt5083738": {
+    "rating": 8,
+    "title": "The Favourite"
+  },
+  "tt27906298": {
+    "rating": 7,
+    "title": "Eldorado: Everything the Nazis Hate"
+  },
+  "tt32331294": {
+    "rating": 7,
+    "title": "Hitler and the Nazis: Evil on Trial"
+  },
+  "tt7349950": {
+    "rating": 6,
+    "title": "It: Chapter Two"
+  },
+  "tt1396484": {
+    "rating": 7,
+    "title": "It"
   },
   "tt6857112": {
     "rating": 7,
     "title": "Us"
   },
-  "tt1457767": {
+  "tt5052448": {
+    "rating": 8,
+    "title": "Get Out"
+  },
+  "tt11126994": {
+    "rating": 10,
+    "title": "Arcane"
+  },
+  "tt5753856": {
+    "rating": 9,
+    "title": "Dark"
+  },
+  "tt7784604": {
+    "rating": 9,
+    "title": "Hereditary"
+  },
+  "tt8772262": {
+    "rating": 10,
+    "title": "Midsommar"
+  },
+  "tt7216636": {
+    "rating": 6,
+    "title": "Hazbin Hotel"
+  },
+  "tt4589218": {
+    "rating": 6,
+    "title": "Five Nights at Freddy's"
+  },
+  "tt1405406": {
+    "rating": 8,
+    "title": "The Vampire Diaries"
+  },
+  "tt2560140": {
+    "rating": 9,
+    "title": "Attack on Titan"
+  },
+  "tt2582802": {
+    "rating": 8,
+    "title": "Whiplash"
+  },
+  "tt0245429": {
+    "rating": 10,
+    "title": "Spirited Away"
+  },
+  "tt0076759": {
+    "rating": 9,
+    "title": "Star Wars: Episode IV - A New Hope"
+  },
+  "tt0080684": {
+    "rating": 9,
+    "title": "Star Wars: Episode V - The Empire Strikes Back"
+  },
+  "tt0091251": {
+    "rating": 10,
+    "title": "Come and See"
+  },
+  "tt0068646": {
+    "rating": 10,
+    "title": "The Godfather"
+  },
+  "tt0137523": {
+    "rating": 8,
+    "title": "Fight Club"
+  },
+  "tt15398776": {
     "rating": 7,
-    "title": "The Conjuring"
+    "title": "Oppenheimer"
+  },
+  "tt1951266": {
+    "rating": 8,
+    "title": "The Hunger Games: Mockingjay - Part 2"
+  },
+  "tt1951265": {
+    "rating": 7,
+    "title": "The Hunger Games: Mockingjay - Part 1"
+  },
+  "tt1951264": {
+    "rating": 8,
+    "title": "The Hunger Games: Catching Fire"
+  },
+  "tt1392170": {
+    "rating": 8,
+    "title": "The Hunger Games"
+  },
+  "tt10545296": {
+    "rating": 8,
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes"
+  },
+  "tt5180504": {
+    "rating": 8,
+    "title": "The Witcher"
+  },
+  "tt4574334": {
+    "rating": 7,
+    "title": "Stranger Things"
+  },
+  "tt10919420": {
+    "rating": 8,
+    "title": "Squid Game"
+  },
+  "tt10048342": {
+    "rating": 9,
+    "title": "The Queen's Gambit"
+  },
+  "tt0458352": {
+    "rating": 10,
+    "title": "The Devil Wears Prada"
+  },
+  "tt6911608": {
+    "rating": 7,
+    "title": "Mamma Mia! Here We Go Again"
+  },
+  "tt0795421": {
+    "rating": 7,
+    "title": "Mamma Mia!"
+  },
+  "tt0377092": {
+    "rating": 9,
+    "title": "Mean Girls"
+  },
+  "tt1517268": {
+    "rating": 7,
+    "title": "Barbie"
+  },
+  "tt22041854": {
+    "rating": 8,
+    "title": "Priscilla"
+  },
+  "tt31193442": {
+    "rating": 8,
+    "title": "Quiet on Set: The Dark Side of Kids TV"
+  },
+  "tt11307176": {
+    "rating": 8,
+    "title": "The Confession Killer"
+  },
+  "tt6792200": {
+    "rating": 8,
+    "title": "The Keepers"
+  },
+  "tt12987894": {
+    "rating": 6,
+    "title": "American Murder: The Family Next Door"
+  },
+  "tt22797582": {
+    "rating": 8,
+    "title": "American Nightmare"
+  },
+  "tt14992922": {
+    "rating": 7,
+    "title": "The Tinder Swindler"
+  },
+  "tt30852970": {
+    "rating": 7,
+    "title": "Lover Stalker Killer"
+  },
+  "tt21059520": {
+    "rating": 8,
+    "title": "Girl in the Picture"
+  },
+  "tt31747163": {
+    "rating": 6,
+    "title": "What Jennifer Did"
+  },
+  "tt32308418": {
+    "rating": 6,
+    "title": "How to Rob a Bank"
+  },
+  "tt13649112": {
+    "rating": 9,
+    "title": "Baby Reindeer"
+  },
+  "tt6751668": {
+    "rating": 10,
+    "title": "Parasite"
+  },
+  "tt14230458": {
+    "rating": 8,
+    "title": "Poor Things"
+  },
+  "tt17351924": {
+    "rating": 10,
+    "title": "Saltburn"
+  },
+  "tt13521006": {
+    "rating": 8,
+    "title": "Beau Is Afraid"
+  },
+  "tt1324999": {
+    "rating": 6,
+    "title": "The Twilight Saga: Breaking Dawn - Part 1"
+  },
+  "tt1325004": {
+    "rating": 7,
+    "title": "The Twilight Saga: Eclipse"
+  },
+  "tt1259571": {
+    "rating": 7,
+    "title": "The Twilight Saga: New Moon"
+  },
+  "tt1099212": {
+    "rating": 7,
+    "title": "Twilight"
   }
 }
