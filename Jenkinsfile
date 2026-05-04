@@ -12,10 +12,13 @@ pipeline {
     post {
         success {
             archiveArtifacts artifacts: 'imdb_recommendations.txt', fingerprint: true
+            deleteDir()
         }
-        always {
+        failure {
+            deleteDir()
+        }
+        aborted {
             deleteDir()
         }
     }
 }
-
