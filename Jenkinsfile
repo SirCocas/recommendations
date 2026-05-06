@@ -1,11 +1,10 @@
 pipeline {
-    agent any
+    agent label "${params.AGENT_LABEL}"
     stages {
         stage("Recommendation") {
             steps {
                 checkout scm
                 sh "python3 imdb.py"
-                sh "ls -l"
             }
         }
     }
