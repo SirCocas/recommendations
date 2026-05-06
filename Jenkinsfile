@@ -1,5 +1,5 @@
 pipeline {
-    agent label "${params.AGENT_LABEL}"
+    agent { label "${params.AGENT_LABEL}" }
     stages {
         stage("Recommendation") {
             steps {
